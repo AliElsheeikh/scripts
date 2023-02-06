@@ -1,4 +1,7 @@
 
+## This code provides an implementation to change the names of all files in a specified folder.
+
+
 # Usage
 - ### Provide the path of the folder you want to modify 
 by setting the `folder_path` variable.   
@@ -21,3 +24,4 @@ new_file_name = f"name {i}{file_extension}"
 - The code will check if the folder exists and if it does, it will change the current working directory to the specified folder.   
 - The code then iterates over all the files in the folder and renames them according to the format specified in the new_file_name line.  
 - Hidden files are skipped in the renaming process.  
+
