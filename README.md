@@ -10,6 +10,7 @@ To use these scripts, simply clone the repository and run the desired script fro
 |--|--|
 |[File Organizer](File-Organizer)|  A script to rename all files in a specified folder with a specific format |
 |[Rename Files](Rename-Files)| A script to sort files in a specified folder into subfolders based on file type|
+|[CryptoTrackerBot](CryptoTrackerBot)|A script that tracks the price of a cryptocurrency and sends updates to a Telegram bot.|
 
     
 # Contribution
