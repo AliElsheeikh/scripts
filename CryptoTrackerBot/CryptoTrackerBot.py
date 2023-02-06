@@ -4,7 +4,7 @@ import time
 # Set the symbol, bot_token, and chat_id
 symbol = '[SYMBOL]' #ex 'ETH'
 bot_token = '[BOT_TOKEN]'  #ex  '564208165570:BBFaXsfsgfDKjchrvd_TtR3sdfs4k-WDsdacE'
-chat_id = '[CHAT_ID]' #ex "1552154523"
+chat_id = '[CHAT_ID]' #ex "1552154523"  you can add id for group or channel or just for your self
 url = f"https://api.coinbase.com/v2/prices/{symbol}-USD/spot"
 
 # The number of coins the user bought at the purchase price
