@@ -8,7 +8,7 @@ pip install requests
 ```
 ## Setup
 - Create a Telegram bot by talking to the BotFather. You'll receive a bot_token.
-- Create a new group on Telegram and add the bot to it. Take note of the group's `chat_id`.
+- Create a new group or channel on Telegram and add the bot to it. Take note of the group's `chat_id`.
 - Clone this repository or download the script.
 - Open the script in your favorite text editor and replace the placeholders in the following variables:
    - `symbol`: The `symbol` of the cryptocurrency you want to track (e.g. ADA, BTC).
